@@ -2,7 +2,7 @@
 Build a contract which allows for funds raising. Mechanics are the same as a single Kickstarter campaign. There is a particular time to reach the goal. If this does not happen, donators are free to request a refund of transferred Ether. If a goal is reached, the owner of the smart contact can withdraw funds. We want to also allow for “anonymous” donation which is merely a transfer of funds to a smart contract. Even if we are saying anonymous, you need to know that all transactions are publicly visible Ether transfer. We are just unable to refund those funds. 
 
 ## Original Source
-[Michal Zalecki](https://michalzalecki.com/ethereum-test-driven-introduction-to-solidity).
+[Michal Zalecki](https://michalzalecki.com/ethereum-test-driven-introduction-to-solidity)
 
 ## Implementing the Contract and Tests
 ### Setting an Owner
