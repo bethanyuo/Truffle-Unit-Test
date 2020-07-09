@@ -55,7 +55,7 @@ Now, we would like to keep track of who donated how much. Testing with JavaScrip
 
 For tracking a balance of particular user, we can use mapping. We have to mark a function as payable, so it allows users to send Ethers along with function calls.
  
-Let’s test and see if all of them will pass again.
+Let’s test and see if all of them will pass again:
 ```bash
 $ truffle test
 ```
